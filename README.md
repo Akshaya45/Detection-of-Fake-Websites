@@ -11,11 +11,18 @@ Valid URLScan.io API key
 
 **Functionality:**
 
+
 **1.SSL Certificate Validation:** 
 Checks if the website uses a valid SSL certificate.
+
+
 **2.Heuristic Analysis:**
 Scans the website URL for suspicious keywords commonly associated with phishing and fake websites.
+
+
 **3.Domain Age Verification:**
 Retrieves domain information from the WHOIS database to check the domain's age and other relevant details.
+
+
 **4.URLScan.io Integration:**
 Submits the website URL to URLScan.io for a comprehensive security scan.
